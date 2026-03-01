@@ -1,4 +1,4 @@
-Electric vehicle Conjoint Analysis For Urban Commuters:
+Conjoint Analysis Electric vehicle For Urban Commuters:
 
 Problem Statement:
 
