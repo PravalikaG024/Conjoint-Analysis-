@@ -3,10 +3,10 @@
 Problem Statement:
 As India's electric vehicle market rapidly expands, manufacturers face a critical question: What features do urban commuters actually value when purchasing an EV? Understanding these preferences is essential for:
 
-Product development optimization
-Effective marketing positioning
-Strategic pricing decisions
-Market entry strategies for new players.
+1.Product development optimization
+2.Effective marketing positioning
+3.Strategic pricing decisions
+4.Market entry strategies for new players.
 
 Research Objective:
 This study employs conjoint analysis—a proven market research technique—to:
