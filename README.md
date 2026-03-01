@@ -1,4 +1,4 @@
-Conjoint Analysis Electric vehicle For Urban Commuters:
+Understanding Urban EV Feature Prioritization & Pricing Strategy through Conjoint Analysis:
 
 Problem Statement:
 
@@ -14,19 +14,7 @@ Understanding these preferences is essential for:
 
 4.Market entry strategies for new players.
 
-Research Objective:
+Methodology:
+The framework has been showed in this notebook for performing the regression based conjoint analysis, a market research technique. Data preparation and Visualization of results and consistent interpretation was shown. 
 
-This study employs conjoint analysis—a proven market research technique—to:
 
-1.Quantify the relative importance of key EV attributes
-
-2.Identify optimal product configurations for urban markets
-
-3.Determine willingness-to-pay for feature upgrades
-
-4.Simulate market share for different EV profiles
-
-Target Audience:
-Urban commuters in Indian metropolitan cities
-Daily commute distance: 20-50 km
-Price-sensitive segment (₹90,000 - ₹2,50,000 range)
